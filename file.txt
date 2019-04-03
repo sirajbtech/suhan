@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0C9D-3BD5
+
+ Directory of C:\Users\Suhan Shaik\Desktop\My Project
+
+03-04-2019  20:51    <DIR>          .
+03-04-2019  20:51    <DIR>          ..
+03-04-2019  20:51                 0 file.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  779,715,928,064 bytes free
